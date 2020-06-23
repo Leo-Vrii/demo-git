@@ -1,4 +1,5 @@
 # demo-git
 Démo-Git
-Yo les lapins
-Modification depuis girhub
+Yo les supers lapins
+Modification depuis github
+DREAM BIG!
